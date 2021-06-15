@@ -1,4 +1,4 @@
-# Youtube data analysis project
+# Stock data analysis project
 
 El objetivo de este proyecto era analizar data de acciones de distintas empresas IT y crear visualizaciones para entender el crecimiento exponencial que tuvieron estas empresas en el mercado de valores y si hay relación entre acciones.
 
